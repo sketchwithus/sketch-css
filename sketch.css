@@ -1,3 +1,46 @@
+/* position */
+.pa, .absolute, .position-absolute { position: absolute; }
+.pf, .fixed, .position-fixed { position: fixed; }
+.pfb, .fixed-bottom, .position-fixed-bottom { bottom: 0; left: 0; }
+.pft, .fixed-top, .position-fixed-top { top: 0; left: 0; }
+.pr, .relative, .position-relative { position: relative; }
+.ps, .static, .position-static { position: static; }
+
+/* font styles */
+.tb, .bold, .text-bold { font-weight: bold; }
+.tc, .text-center, .text-align-center { text-align: center; }
+.ti, .italic, .text-italic { font-style: italic; }
+.tj, .justify, .text-justify { text-align: justify; }
+.tl, .text-left, .text-align-left { text-align: left; }
+.tlt, .line-through, .text-line-through { text-decoration: line-through; }
+.to, .overline, .text-overline { text-decoration: overline; }
+.tr, .text-right, .text-align-right { text-align: right; }
+.tu, `.underline, .text-underline { text-decoration: underline; }
+
+/* float */
+.clr, .clear, .clear-both { clear: both; }
+.cf, .clear-float, .fc, .float-clear { clear: both; }
+.fl, .left, .float-left { float: left; }
+.fn, .float-none { float: none; }
+.fr, .right, .float-right { float: right; }
+
+/* cursor */
+.ca, .cursor-auto { cursor: auto; }
+.cc, .cursor-copy { cursor: copy; }
+.cch, .cursor-crosshair { cursor: crosshair; }
+.ccl, .cursor-cell { cursor: cell; }
+.cd, .cursor-default { cursor: default; }
+.cg, .cursor-grab { cursor: grab; }
+.ch, .cursor-helper { cursor: helper; }
+.cm, .cursor-move { cursor: move; }
+.cn, .cursor-none { cursor: none; }
+.cna, .cursor-not-allowed { cursor: not-allowed; }
+.cp, .cursor-pointer { cursor: pointer; }
+.ct, .cursor-text { cursor: text; }
+.cw, .cursor-wait { cursor: wait; }
+.czi, .cursor-zoom-in { cursor: zoom-in; }
+.czo, .cursor-zoom-out { cursor: zoom-out; }
+
 /* margin */
 .m0 { margin: 0; }
 .m1 { margin: 1px; }
