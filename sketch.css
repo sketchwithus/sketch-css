@@ -1,3 +1,24 @@
+/* position */
+.pa, .absolute, .position-absolute { position: absolute; }
+.pf, .fixed, .position-fixed { position: fixed; }
+.pfb, .fixed-bottom, .position-fixed-bottom { bottom: 0; left: 0; }
+.pft, .fixed-top, .position-fixed-top { top: 0; left: 0; }
+.pr, .relative, .position-relative { position: relative; }
+.ps, .static, .position-static { position: static; }
+
+/* font styles */
+.tb, .bold, .text-bold { font-weight: bold; }
+.ti, .italic, .text-italic { font-style: italic; }
+.tlt, .line-through, .text-line-through { text-decoration: line-through; }
+.to, .overline, .text-overline { text-decoration: overline; }
+.tu, `.underline, .text-underline { text-decoration: underline; }
+
+/* float */
+.clr, .clear, .clear-both { clear: both; }
+.fl, .left, .float-left { float: left; }
+.fn, .float-none { float: none; }
+.fr, .right, .float-right { float: right; }
+
 /* margin */
 .m0 { margin: 0; }
 .m1 { margin: 1px; }
