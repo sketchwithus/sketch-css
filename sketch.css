@@ -8,9 +8,13 @@
 
 /* font styles */
 .tb, .bold, .text-bold { font-weight: bold; }
+.tc, .text-center, .text-align-center { text-align: center; }
 .ti, .italic, .text-italic { font-style: italic; }
+.tj, .justify, .text-justify { text-align: justify; }
+.tl, .text-left, .text-align-left { text-align: left; }
 .tlt, .line-through, .text-line-through { text-decoration: line-through; }
 .to, .overline, .text-overline { text-decoration: overline; }
+.tr, .text-right, .text-align-right { text-align: right; }
 .tu, `.underline, .text-underline { text-decoration: underline; }
 
 /* float */
