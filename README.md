@@ -166,6 +166,9 @@
 ##### border-right
 .bdr0 - .bdr25 (1px increments)  
 .bdr25 - .bdr150 (5px increments)  
+##### border-radius
+.br0 - .br25 (1px increments)  
+.br25 - .br150 (5px increments)  
 ##### opacity
 .op0 - .op100 (10px increments)  
 
