@@ -1,6 +1,17 @@
 # sketch-css
 
 ## positioning
+### float 
+##### clear
+.clr, .clear, .clear-both { clear: both; }
+.cf, .clear-float, .fc, .float-clear { clear: both; }
+##### float left
+.fl, .left, .float-left { float: left; }
+##### float none
+.fn, .float-none { float: none; }
+##### float right
+.fr, .right, .float-right { float: right; }
+### position 
 ##### absolute
 .pa, .absolute, .position-absolute { position: absolute; }
 ##### fixed 
