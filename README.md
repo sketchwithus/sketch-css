@@ -3,27 +3,27 @@
 ## positioning
 ### float 
 ##### clear
-.clr, .clear, .clear-both { clear: both; }
-.cf, .clear-float, .fc, .float-clear { clear: both; }
+.clr, .clear, .clear-both  
+.cf, .clear-float, .fc, .float-clear 
 ##### float left
-.fl, .left, .float-left { float: left; }
+.fl, .left, .float-left  
 ##### float none
-.fn, .float-none { float: none; }
+.fn, .float-none  
 ##### float right
-.fr, .right, .float-right { float: right; }
+.fr, .right, .float-right  
 ### position 
 ##### absolute
-.pa, .absolute, .position-absolute { position: absolute; }
+.pa, .absolute, .position-absolute  
 ##### fixed 
-.pf, .fixed, .position-fixed { position: fixed; }
+.pf, .fixed, .position-fixed  
 ##### fixed-bottom
-.pfb, .fixed-bottom, .position-fixed-bottom { bottom: 0; left: 0; }
+.pfb, .fixed-bottom, .position-fixed-bottom  
 ##### fixed-top
-.pft, .fixed-top, .position-fixed-top { top: 0; left: 0; }
+.pft, .fixed-top, .position-fixed-top  
 ##### relative
-.pr, .relative, .position-relative { position: relative; }
+.pr, .relative, .position-relative  
 ##### static
-.ps, .static, .position-static { position: static; }
+.ps, .static, .position-static  
 #### margin
 .m0 - .m25 (1px increments)  
 .m25 - .m150 (5px increments)  
