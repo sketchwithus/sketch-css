@@ -1,0 +1,10 @@
+/* 
+    Authors     : Perry Faro & Rick van der Wolk
+*/
+
+.pa, .absolute, .position-absolute { position: absolute; }
+.pf, .fixed, .position-fixed { position: fixed; }
+.pfb, .fixed-bottom, .position-fixed-bottom { bottom: 0; left: 0; }
+.pft, .fixed-top, .position-fixed-top { top: 0; left: 0; }
+.pr, .relative, .position-relative { position: relative; }
+.ps, .static, .position-static { position: static; }

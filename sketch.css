@@ -23,7 +23,7 @@
 .tnd, .nodecoration, .text-nodecoration { text-decoration: none; }
 .to, .overline, .text-overline { text-decoration: overline; }
 .tar, .text-right, .text-align-right { text-align: right; }
-.tu, `.underline, .text-underline { text-decoration: underline; }
+.tu, .underline, .text-underline { text-decoration: underline; }
 .tuc, .uppercase, .text-uppercase { text-transform: uppercase; }
 
 /* float */
