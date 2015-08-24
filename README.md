@@ -3,7 +3,7 @@
 ## positioning
 ### float 
 ##### clear
-.clr, .clear, .clear-both  
+.clr, .clear, .clear-both, .clearfix   
 .cf, .clear-float, .fc, .float-clear 
 ##### float left
 .fl, .left, .float-left  
@@ -25,35 +25,35 @@
 ##### static
 .ps, .static, .position-static  
 #### margin
-.m0 - .m25 (1px increments)  
-.m25 - .m150 (5px increments)  
+.m0, .m-0, .m-a-0 - .m25, .m-25, .m-a-25 (1px increments)  
+.m25, .m-25, .m-a-25 - .m150, .m-150, .m-a-150 (5px increments)  
 ##### margin-top
-.mt0 - .mt25 (1px increments)  
-.mt25 - .mt150 (5px increments)  
+.mt0, .m-t0, .m-t-0 - .mt25, .m-t25, .m-t-25 (1px increments)  
+.mt25, .m-t25, .m-t-25 - .mt150, .m-t150, .m-t-150 (5px increments)  
 ##### margin-bottom
-.mb0 - .mb25 (1px increments)  
-.mb25 - .mb150 (5px increments)  
+.mb0, .m-b0, m-b-0 - .mb25, .m-b25, .m-b-25 (1px increments)  
+.mb25, .m-b25, .m-b-25 - .mb150, .m-b150, .m-b-150 (5px increments)  
 ##### margin-left
-.ml0 - .ml25 (1px increments)  
-.ml25 - .ml150 (5px increments)  
+.ml0, .m-l0, .m-l-0 - .ml25, .m-l25, .m-l-25 (1px increments)  
+.ml25, .m-l25, .m-l-25 - .ml150, .m-l150, .m-l-150 (5px increments)  
 ##### margin-right
-.mr0 - .mr25 (1px increments)  
-.mr25 - .mr150 (5px increments)  
+.mr0, .m-r0, .m-r-0 - .mr25, .m-r25, .m-r-25 (1px increments)  
+.mr25, .m-r25, .m-r-25 - .mr150, .m-r150, .m-r-150 (5px increments)  
 #### padding
-.p0 - .p25 (1px increments)  
-.p25 - .p150 (5px increments)  
+.p0, .p-0, .p-a-0 - .p25, .p-25, .p-a-25 (1px increments)  
+.p25, .p-25, .p-a-25 - .p150, .p-150, .p-a-150 (5px increments)  
 ##### padding-top
-.pt0 - .pt25 (1px increments)  
-.pt25 - .pt150 (5px increments)  
+.pt0, .p-t0, p-t-0 - .pt25, .p-t25, p-t-25 (1px increments)  
+.pt25, .p-t25, p-t-25 - .pt150, .p-t150, p-t-150 (5px increments)  
 ##### padding-bottom
-.pb0 - .pb25 (1px increments)  
-.pb25 - .pb150 (5px increments)  
+.pb0, .p-b0, p-b-0 - .pb25, .p-b25, p-b-25 (1px increments)  
+.pb25, .p-b25, p-b-25 - .pb150, .p-b150, p-b-150 (5px increments)  
 ##### padding-left
-.pl0 - .pl25 (1px increments)  
-.pl25 - .pl150 (5px increments)  
+.pl0, .p-l0, p-l-0 - .pl25, .p-l25, p-l-25 (1px increments)  
+.pl25, .p-l25, p-l-25 - .pl150, .p-l150, p-l-150 (5px increments)  
 ##### padding-right
-.pr0 - .pr25 (1px increments)  
-.pr25 - .pr150 (5px increments)  
+.pr0, .p-r0, p-r-0 - .pr25, .p-r25, p-r-25 (1px increments)  
+.pr25, .p-r25, p-r-25 - .pr150, .p-r150, p-r-150 (5px increments)  
 #### top
 .t0 - .t25 (1px increments)  
 .t25 - .t150 (5px increments)  
