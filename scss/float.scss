@@ -2,7 +2,7 @@
     Authors     : Perry Faro & Rick van der Wolk
 */
 
-.clr, .clear, .clear-both { clear: both; }
+.clr, .clear, .clear-both, .clearfix { clear: both; }
 .cf, .clear-float, .fc, .float-clear { clear: both; }
 .fl, .left, .float-left { float: left; }
 .fn, .float-none { float: none; }
